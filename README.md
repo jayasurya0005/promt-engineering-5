@@ -1,14 +1,19 @@
 # EXPERIMENT NUMBER :5
 # Comparative Analysis of Different Types of Prompting Patterns and Their Effectiveness Across Various Test Scenarios
 
+
 **DATE :**
+
 **REGISTER NUMBER : 212222060093**
+
 **DEVELOPED BY : JAYASUYRA S**
+
 
 **AIM:** 
 Test and compare how different pattern models respond to various prompts (broad or 
 unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  
 Analyze the quality, accuracy, and depth of the generated responses. 
+
 
 
 **AI TOOLS REQUIRED:** 
@@ -18,6 +23,7 @@ o For assistance- ChatGpt, Claude, DeepSeek
 o For Video Generation- Runway
 
 o For Image Generation- Midjourney
+
 
 ## 1. Introduction
 
